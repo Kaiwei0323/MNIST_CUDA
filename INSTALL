@@ -1,0 +1,26 @@
+MNIST Model Training and Dataset Installation Guide
+
+Table of Contents
+1. Prerequisites
+2. Dataset Installation
+3. Model Training
+4. Clean Files
+
+1. Prerequisites:
+--------------------------------
+- Ubuntu 22.04
+- CUDA 12.3
+- CUDNN 8.9.5.29
+
+2. Dataset Installation
+--------------------------------
+- ./download_mnist.sh
+
+3. Model Training
+--------------------------------
+- ./run.sh
+
+4. Clean Files
+--------------------------------
+- make clean
+
