@@ -3,8 +3,8 @@ Utilizing cuDNN / cuBLAS usage for the deep learning training using MNIST datase
 
 # Dataset
 ```
-Training Dataset: 60000 items
-Testing dataset: 10000 items
+Training Dataset: 60,000 items
+Testing dataset: 10,000 items
 ```
 # Model Architecture
 ![Untitled drawing (1)](https://github.com/Kaiwei0323/MNIST_CUDA/assets/91507316/ecb8c09a-4899-4686-9dd3-2edaa1ed472c)
