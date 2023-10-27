@@ -1,5 +1,5 @@
 # CUDA for deep learning training
-Utilizing CUDNN / CUBLAS usage for the deep learning training using MNIST datasets.
+Utilizing cuDNN / cuBLAS usage for the deep learning training using MNIST datasets.
 
 # Dataset
 ```
